@@ -1,6 +1,7 @@
 # RestaurantManSys（餐厅管理系统）
 【2016年大二下学期】基于J2SE开发的餐厅管理系统
 
+
 ## 官方介绍一下
 
 1. 基本原理分析
@@ -10,6 +11,7 @@
 
 ## 补充
 1.文档：https://github.com/25Dong/RestaurantManSys/tree/master/document
+2.数据库文件：https://github.com/25Dong/RestaurantManSys/tree/master/document/DataBase
 
 
 ## 再啰嗦一句
